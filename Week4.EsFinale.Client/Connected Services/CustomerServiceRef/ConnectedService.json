@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://localhost:8733/Design_Time_Addresses/Week4.EsFinale.Wcf/CustomerService/mex"
+    ],
+    "collectionTypes": [
+      "System.Collections.ArrayList",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, CustomerServiceRef"
+    ],
+    "targetFramework": "netcoreapp3.1",
+    "typeReuseMode": "All"
+  }
+}
